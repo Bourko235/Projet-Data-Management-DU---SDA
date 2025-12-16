@@ -1,7 +1,7 @@
-# Projet Data Management & Visualisation - SDA(Sorbonne Data Analytics) 2025
-**Analyse des données de la Pandémie COVID-19 (Données OWID)**
+# Projet Data Management & Visualisation - Sorbonne Data Analytics(SDA) 2025
+**Analyse des données de la Pandémie de COVID-19 (Données OWID)**
 
-Ce projet a été réalisé dans le cadre du module Data Management, Data Visualisation & Text Mining (DU- SDA 2025-2026). Il s'agit d’un projet de data-management materialisé par application interactive Streamlit permettant l'exploration approfondie des données mondiales de la pandémie de COVID-19.
+Ce projet a été réalisé dans le cadre du module Data Management, Data Visualisation & Text Mining (DU- SDA 2025-2026). Il s'agit d’un projet de data-management materialisé par application interactive Streamlit permettant l'exploration approfondie des données mondiales de la pandémie COVID-19.
 
  ## Structure 
 - data_management.ipynb : Notebook Jupyter dédié à l'Analyse Exploratoire des Données (EDA). Il contient le pipeline de nettoyage (gestion des NaNs, suppression des agrégats régionaux) et la création de variables.
